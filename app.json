@@ -88,7 +88,7 @@
   },{
     "url": "https://github.com/chrismytton/heroku-buildpack-jq"
   },{
-    "url": "https://github.com/cloudfoundry/nodejs-buildpack"
+    "url": "https://github.com/heroku/buildpacks-nodejs/tree/main/buildpacks"
   },{
     "url": "heroku/python"
   }]
